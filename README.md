@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mellylaw
-- 👀 I’m interested in software
-- 🌱 I’m currently learning chemical engineering and python
-- 💞️ I’m looking to collaborate on Outreachy's internship
 - 📫 How to reach me: mellylaw03@gmail.com 
 
 <!---
